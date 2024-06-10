@@ -44,7 +44,7 @@ function Header() {
         <>
             <header>
                 <div className={style.tittle}>
-                    {t("header.title")} {/* Translate header title */}
+                    {t("header.title")}
                 </div>
                 {/* Add Note button */}
                 <Button style={{backgroundColor: '#E1AFD1'}} id={'addButton'} onClick={addNoteHandle} variant="contained" className="addButton">
