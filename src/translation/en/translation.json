@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Note Manager",
+    "search": "Search",
+    "addNote": "Add Note",
+    "language": "Language"
+  },
+  "noteCard": {
+    "editButton": "Edit",
+    "deleteButton": "Delete"
+  },
+  "addModal": {
+    "addNote": "Add Note",
+    "noteName": "Note Name",
+    "noteContent": "Note Content",
+    "noteSave": "Save",
+    "noteClose": "Close"
+  },
+  "editModal": {
+    "editNote": "Edit Note"
+  },
+  "errorNote": {
+    "errorNote": "Invalid name or content"
+  },
+  "notificationWindow": {
+    "noNotes": "No notes",
+    "loading": "Loading...",
+    "errorGetNotes": "Can not get notes"
+  }
+}

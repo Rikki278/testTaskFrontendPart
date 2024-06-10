@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Менеджер Нотаток",
+    "search": "Пошук",
+    "addNote": "Додати нотатку",
+    "language": "Мова"
+  },
+  "noteCard": {
+    "editButton": "Змінити",
+    "deleteButton": "Видалити"
+  },
+  "addModal": {
+    "addNote": "Додати Нотатку",
+    "noteName": "Назва нотатки",
+    "noteContent": "Зміст нотатки",
+    "noteSave": "Зберігти",
+    "noteClose": "Закрити"
+  },
+  "editModal": {
+    "editNote": "Редагування Нотатки"
+  },
+  "errorNote": {
+    "errorNote": "Недійсна назва або вміст"
+  },
+  "notificationWindow": {
+    "noNotes": "Нема нотаток",
+    "loading": "Завантаження...",
+    "errorGetNotes": "Не можемо завантажити нотатки"
+  }
+}

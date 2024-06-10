@@ -1,0 +1,15 @@
+header {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #AD88C6;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  .tittle{
+    font-size: 25px;
+  }
+}
